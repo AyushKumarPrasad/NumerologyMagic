@@ -1,0 +1,690 @@
+<resources>
+    <string name="app_name">Numerology Magic</string>
+
+    <string name="contact_1">Contact</string>
+    <string name="contact_2">Consultant : Dr. Sandhya Jadhav</string>
+    <string name="contact_3">Head Office : </string>
+    <string name="contact_4">709, Prabhat Center Annexe,</string>
+
+    <string name="contact_5">Sector - 1A, CBD Belapur, </string>
+    <string name="contact_6">Navi Mumbai - 400 614</string>
+    <string name="contact_7">Branch Office : </string>
+    <string name="contact_8">“Aashirwad”, 268/3/6, Amrut Colony,</string>
+
+    <string name="contact_9">Daulat Nagar, Karanje Terfe, Satara</string>
+    <string name="contact_10">415 001</string>
+    <string name="contact_11">Visiting Place : </string>
+    <string name="contact_12">Shree Khandeshawar Mahadev Mandir,</string>
+
+    <string name="contact_13">Khandeshwar Lake, Khandeshwar Lake Road, </string>
+    <string name="contact_14">Park Sight Society, Sector - 6, Khanda Colony, </string>
+    <string name="contact_15">Panvel, Navi Mumbai, Maharashtra 410206</string>
+    <string name="contact_16">Visiting Place : </string>
+
+    <string name="contact_17">Shop No. BS-02, 108 Greens, Beed</string>
+    <string name="contact_18">Bypass, Opp. Kamalnayan Bajaj </string>
+    <string name="contact_19">Hospital, Aurangabad 431005</string>
+    <string name="contact_20">Mobile : 8655990799</string>
+
+    <string name="contact_21">E-mail : drsandhya@vastoshapati.com</string>
+    <string name="contact_22">vastoshapati@gmail.com</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="babyName_result_Mulank">This baby name matches your mulank number. This baby name is good for you.</string>
+    <string name="babyName_result_Bad">This baby name does not match your lucky and mulank number. This baby name is not good for you.</string>
+    <string name="babyName_result_Lucky">This baby name matches your lucky number. This baby name is very good for you.</string>
+
+    <string name="address_result_Mulank">This address matches your mulank number. This address is good for you.</string>
+    <string name="address_result_Bad">This address does not match your lucky and mulank number. This address is not good for you.</string>
+    <string name="address_result_Lucky">This address matches your lucky number. This address is very good for you.</string>
+
+    <string name="companyName_result_Mulank">This company name matches your mulank number. This company name is good for you.</string>
+    <string name="companyName_result_Bad">This company does not match your lucky and mulank number. This company name is not good for you.</string>
+    <string name="companyName_result_Lucky">This company name matches your lucky number. This company name is very good for you.</string>
+
+    <string name="mobileNumber_result_Mulank">This mobile number matches your mulank number. This mobile number is good for you.</string>
+    <string name="mobileNumber_result_Bad">This mobile number does not match your lucky and mulank number. This mobile number is good for you.</string>
+    <string name="mobileNumber_result_Lucky">This mobile number matches your lucky number. This mobile number is good for you.</string>
+
+    <string name="vehicleNumber_result_Mulank">This vehicle number matches your mulank number. This vehicle number is good for you.</string>
+    <string name="vehicleNumber_result_Bad">This vehicle number does not match your lucky and mulank number. This vehicle number is good for you.</string>
+    <string name="vehicleNumber_result_Lucky">This vehicle number matches your lucky number. This vehicle number is good for you.</string>
+
+    <string name="yourName_result_Mulank">This name matches your mulank number. This name is good for you.</string>
+    <string name="yourName_result_Bad">This name does not matches your mulank number. This name is not good for you.</string>
+    <string name="yourName_result_Lucky">This name matches your mulank number. This name is good for you.</string>
+
+    <string name="matchMaking_result_Good">This is a good match.</string>
+    <string name="matchMaking_result_Bad">This is not a good match.</string>
+
+    <string name="text_result">Result</string>
+
+    <string name="babyname_language">Baby Name</string>
+
+    <string name="companyname_language">Company Name</string>
+
+    <string name="address_language">Address</string>
+
+    <string name="mobilenumber_language">Mobile Number</string>
+
+    <string name="matchmaking_language">Match Making</string>
+
+    <string name="vehiclenumber_language">Vehicle Number</string>
+
+    <string name="yourname_language">Your Name</string>
+
+    <string name="ourwebsite_language">Website</string>
+
+    <string name="contactUs_language">Contact Us</string>
+
+    <string name="turnUp_language">TurnUp Idea Pvt Ltd 2018</string>
+
+    <string name="my_preference">"magic.numerology.ideas.turnup.numerologymagic.MyPref"</string>
+
+    <string name="my_preference_key">"magic.numerology.ideas.turnup.numerologymagic.MyPrefkey"</string>
+
+    <string name="contactUs">Type your Address here</string>
+
+    <string name="dateofbirth1">dd</string>
+    <string name="dateofbirth2">mm</string>
+    <string name="dateofbirth3">yyyy</string>
+
+
+    <string name="address1">Type your Address here</string>
+
+    <string name="babyname1">Type your Baby Name here</string>
+
+    <string name="companyname1">Type your Company Name here</string>
+
+    <string name="matchmaking1">Female Dob</string>
+    <string name="matchmaking2">Male Dob</string>
+
+    <string name="mobilenumber1">Type your Mobile Number here</string>
+
+    <string name="vehiclenumber1">Type your Vehicle Number here</string>
+
+    <string name="yourname1">Type your Name here</string>
+
+
+    <string name="luckyNumber">Your Lucky Number :-</string>
+
+    <string name="karmicNumber">Your Mulank Number :-</string>
+
+    <string name="mulank">Mulank Number :-</string>
+
+    <string name="bestday">Best Day :-</string>
+
+    <string name="bestmonth">Best Month :-</string>
+
+    <string name="besttime">Best Time :-</string>
+
+    <string name="datelord">Lord :-</string>
+
+    <string name="element">Element :-</string>
+
+    <string name="luckycolor">Lucky Color :-</string>
+
+    <string name="luckygem">Lucky Gem :-</string>
+
+    <string name="favourabledirection">Favourable Direction :-</string>
+
+    <string name="favourabletaste">Favourable Taste :-</string>
+
+    <string name="positivetraits">Positive Traits :-</string>
+
+    <string name="negativetraits">Negative Traits :-</string>
+
+    <string name="friendlynumbers">Friendly Numbers :-</string>
+
+    <string name="neutralnumbers">Neutral Numbers :-</string>
+
+    <string name="enemynumbers">Enemy Numbers :-</string>
+
+    <string name="luckymetal">Lucky Metal :-</string>
+
+
+    <!-- FIRST  RESULT  FIRST  RESULT  FIRST  RESULT  FIRST  RESULT  FIRST  RESULT  FIRST  RESULT  FIRST   -->
+
+    <string name="dateLord1">Sun</string>
+
+    <string name="element1">Fire</string>
+
+    <string name="luckyColor1">Gold</string>
+
+    <string name="luckyGem1">Ruby</string>
+
+    <string name="favourableDirection1">East</string>
+
+    <string name="favourableTatse1">Hot/ spicy</string>
+
+    <string name="positiveTraits1">They are ambitious and determined, a leader seeking opportunities. There is a great deal of honesty and
+        loyalty in this character. They are a loyal friend and strictly fair in business dealings.</string>
+
+    <string name="negativeTraits1">They are apt to dominate situations and people; the home, the spouse,
+        the family and the business. Emotions aren't strong in this nature.</string>
+
+    <string name="friendlyNumbers1">2, 7, 5</string>
+
+    <string name="neutralNumbers1">3, 9, 4</string>
+
+    <string name="enemyNumbers1">6,8</string>
+
+    <string name="luckyMetal1">Gold</string>
+
+    <string name="bestday1">Sunday, Thursday</string>
+
+    <string name="bestmonth1">January, March, May, July, October</string>
+
+    <string name="besttime1">Between 20 June and 21 August every year</string>
+
+
+    <string name="result1a">1. You have the power of the Sun planet. Therefore, you have the properties of the sun.</string>
+
+    <string name="result1b">2. Creativity, agility, excitement, art and cleverness are your special qualities.</string>
+
+    <string name="result1c">3. Your personality is passionate. You naturally mix with the nature. You enjoy your life atmost.</string>
+
+    <string name="result1d">4. Although it has been a long way to describe a subject, but you prefer not being able to live with your changing thoughts for a long time.</string>
+
+    <string name="result1e">5. With the help of self-realization, you can take a quick look at any subject and take part in the conversation about that topic.</string>
+
+    <string name="result1f">6. Your cleverness affects others. With this quality, you can successfully convent the meeting.</string>
+
+    <string name="result1g">7.  You have strong willpower. There is complete freedom in thought and action. If you are getting leadership, then you will be interested in some work.</string>
+
+    <string name="result1h">8.  If you are social person then you have good knowledge of obligations and social rules. You are sometimes the Ideal, sometimes Vigilant, in this way it seems you have two nature.</string>
+
+    <string name="result1i">9. Sometimes you are stubborn and selfish. </string>
+
+    <string name="result1j">10. Despite the inherent power of doing research, due to the playful nature, they can not make themselves a separate place in any one field.</string>
+
+    <!--   <string name="result1k">11. Due to their kind and emotional nature they should be careful while
+        dealing in business so that no loss should happen.</string>   -->
+
+    <!--        SECOND  RESULT  SECOND  RESULT  SECOND  RESULT  SECOND  RESULT  SECOND  RESULT  SECOND  RESULT -->
+
+    <string name="dateLord2">Moon</string>
+
+    <string name="element2">Water</string>
+
+    <string name="luckyColor2">White</string>
+
+    <string name="luckyGem2">Pearl</string>
+
+    <string name="favourableDirection2">North- West</string>
+
+    <string name="favourableTatse2">Salt, Alkaline</string>
+
+    <string name="positiveTraits2">They are sympathetic, extremely concerned and devoted. The nature tends to be very sensitive to others,
+        always tactful and diplomatic. They are rather emotional. They are persuasive, but in a very quiet way, never forceful.</string>
+
+    <string name="negativeTraits2">They are over-sensitive, with a delicate ego that is too easily hurt. They are timid or fearful sometimes.</string>
+
+    <string name="friendlyNumbers2">5, 6, 3, 8</string>
+
+    <string name="neutralNumbers2">1, 4</string>
+
+    <string name="enemyNumbers2">7, 9</string>
+
+    <string name="luckyMetal2">Silver</string>
+
+    <string name="bestday2">Monday, Wednesday</string>
+
+    <string name="bestmonth2">February, April, August, November</string>
+
+    <string name="besttime2">Between 20 July and 20 August every year</string>
+
+
+    <string name="result2a">1. You are the moon shadow on.</string>
+
+    <string name="result2b">2. You have a great imagination, you are from a fascinating and dreamy character.</string>
+
+    <string name="result2c">3.  You are a philosopher and you are interested in doing the things differently.</string>
+
+    <string name="result2d">4. Due to the high intellectual level, you do not like to be with other people.
+    Despite your social attitude, you feel fully involved in the public.</string>
+
+    <string name="result2e">5. You are very affectionate and popular. </string>
+
+    <string name="result2f">6.  You have the beauty of natural beauty such as sea, flower, beauty of the universe and the vastness of the sky.</string>
+
+    <string name="result2g">7.  You love the stars of heaven, spend time watching stars, and enjoy it.</string>
+
+    <string name="result2h">8.   Your nature is unstable and playful, and you want to constantly change your life. The long distance journey looks more enjoyable.</string>
+
+    <string name="result2i">9. You like to be in the world of dream.</string>
+
+    <string name="result2j">10. You have straightforward nature. </string>
+
+    <!--      THIRD  RESULT  THIRD  RESULT  THIRD  RESULT  THIRD  RESULT  THIRD  RESULT  THIRD  RESULT     -->
+
+    <string name="dateLord3">Jupiter</string>
+
+    <string name="element3">Ether</string>
+
+    <string name="luckyColor3">Yellow</string>
+
+    <string name="luckyGem3">Yellow Sapphire</string>
+
+    <string name="favourableDirection3">North East</string>
+
+    <string name="favourableTatse3">Sweet</string>
+
+    <string name="positiveTraits3">They are friendly and very social. They have a good mental and emotional balance. They are intuitive, and creative.</string>
+
+    <string name="negativeTraits3">They are over-optimistic, non-stop talkers.</string>
+
+    <string name="friendlyNumbers3">2, 7, 9, 8</string>
+
+    <string name="neutralNumbers3">1, 4</string>
+
+    <string name="enemyNumbers3">5,6</string>
+
+    <string name="luckyMetal3">Gold</string>
+
+    <string name="bestday3">Tuesday, Friday</string>
+
+    <string name="bestmonth3">March, May, July, June, September, December</string>
+
+    <string name="besttime3">Between 18 September and 20 January every year</string>
+
+
+    <string name="result3a">1. Date 3 comes under the authority of the master planet. This planet is known for its ethical, pure love, kindness, justice, generosity and helping others.</string>
+
+    <string name="result3b">2. You can easily communicate with others. You are ready to work for someone else and show you the right sympathy.</string>
+
+    <string name="result3c">3. Kind, courageous and non-partial by nature your success will start
+        from 21 years of age and after 27 you will start glorifying in your field.</string>You
+    follow religion well, but sometimes it seems hypocritical and excessive. Even you are religious,
+    yet it is not completely impassive in it. Any questions are resolved in a pre-and systematic
+    manner.
+
+    <string name="result3d">4.  You like to do your work yourself and do not want to interfere in your work.</string>
+
+    <string name="result3e">5. You are ambitious. When you are thinking of bringing your ideas and thoughts into practice, you enjoy being alone.</string>
+
+    <string name="result3f">6.  Generally, there is great interest for a person who is beautiful, intelligent and intensive.</string>
+
+    <string name="result3g">7.  Judge, teacher and philosopher who judge fair and merciful decisions will fall on your date.</string>
+
+    <string name="result3h">8.  You take your decision yourself. You have a habit of showing, but justice and maturity show up in the right way. Your emotions are intuitive and healthy, and you give it freely.</string>
+
+    <string name="result3i">9.  You are very excited and have a different perspective to understand the world. You are a generous, tolerant and trustworthy person, you do not hate anybody and do not feel inferior. Take care of this not to take advantage of your goodness.</string>
+
+    <!--   <string name="result3j">10. You are short tempered in nature and have high self respect which
+        you don’t compromise at any cost.</string>
+
+    <string name="result3k">11. In professional fields you may excel as an editor, banking, insurance
+        agents, diplomats and high government ranking officers.</string>   -->
+
+
+    <!--        FOURTH  RESULT   FOURTH  RESULT   FOURTH  RESULT   FOURTH  RESULT   FOURTH RESULT      -->
+
+    <string name="dateLord4">Rahu</string>
+
+    <string name="element4">Fire</string>
+
+    <string name="luckyColor4">Gold</string>
+
+    <string name="luckyGem4">Gomed</string>
+
+    <string name="favourableDirection4">East</string>
+
+    <string name="favourableTatse4">Hot/ spicy</string>
+
+    <string name="positiveTraits4">They are excellent at organizing, systematizing, and managing. They are responsible, reliable and in the
+        final analysis, practical.</string>
+
+    <string name="negativeTraits4">They are rigid, stubborn and somewhat narrow-minded. There is a tendency to hide feelings, or to really
+        not be aware of real feelings.</string>
+
+    <string name="friendlyNumbers4">2, 7, 5</string>
+
+    <string name="neutralNumbers4">1, 9</string>
+
+    <string name="enemyNumbers4">1, 6, 8</string>
+
+    <string name="luckyMetal4">Gold</string>
+
+    <string name="bestday4">Wednesday, Monday</string>
+
+    <string name="bestmonth4">April, February, August</string>
+
+    <string name="besttime4">Between 13 September and 13 January every year</string>
+
+
+    <string name="result4a">1. The effect of the Herschelle planet is on you.</string>
+
+    <string name="result4b">2.   Enthusiasm, vigor and progress are the characteristics of your personality.</string>
+
+    <string name="result4c">3.  Your life is in struggle and many unexpected things are experienced. </string>
+
+    <string name="result4d">4. You are a man of a strong tendency. You use your intellect and work for human welfare.</string>
+
+    <string name="result4e">5. Efforts are made to break the boundaries of life.</string>
+
+    <string name="result4f">6. Your personality is attractive and you do not like crap and falsehood.</string>
+
+    <string name="result4g">7. You are organized and systematic according to your imagination. You have the attitude of putting your thoughts on the other person. Contextual thinking, an attitude of analysis and a subtle approach are your attributes.</string>
+
+    <string name="result4h">8. Continuous opposition or controversy leads to secretive enemies and misunderstandings.</string>
+
+    <string name="result4i">9.  Due to your charitable nature, you are bound to society and surroundings. Your actions misunderstand you. Even after this, you want to make people yours, and you get these things from your oratory or writing.</string>
+
+    <string name="result4j">10. 4 This number is good for social life and people keep coming behind you. But your extraordinary work and ideas are clearly visible.</string>
+
+    <!--      FIVE  RESULT   FIVE  RESULT   FIVE  RESULT   FIVE  RESULT   FIVE   RESULT      FIVE   RESULT      -->
+
+    <string name="dateLord5">Mercury</string>
+
+    <string name="element5">Earth</string>
+
+    <string name="luckyColor5">Green</string>
+
+    <string name="luckyGem5">Emerald</string>
+
+    <string name="favourableDirection5">North</string>
+
+    <string name="favourableTatse5">Hot/ spicy</string>
+
+    <string name="positiveTraits5">They are adaptable and versatile.</string>
+
+    <string name="negativeTraits5">They are restless and impatient. They dislike the routine work. They jump from one activity to another
+        activity, without ever finishing anything.</string>
+
+    <string name="friendlyNumbers5">1, 4, 3</string>
+
+    <string name="neutralNumbers5">2, 7, 6</string>
+
+    <string name="enemyNumbers5">9, 8</string>
+
+    <string name="luckyMetal5">Gold</string>
+
+    <string name="bestday5">Thursday, Saturday</string>
+
+    <string name="bestmonth5">January, March, May, July</string>
+
+    <string name="besttime5">Between 10 July and 19 September every year</string>
+
+
+    <string name="result5a">1. You are in the ownership of the planet of Mercury, so you are very smart, excellent, interesting about science, businessman, and are quick to work.
+    Money, talent, business people are wise to speak.</string>
+
+    <string name="result5b">2. You have intuition and skills related to business. Your skills are seen in your thinking and actions. You like to play sports.</string>
+
+    <string name="result5c">3. Your like to explain your ideas to others. You have already made plans to complete whatever work you have taken in your hand. You have interest in sensual science. You are always happy. You do not like laziness. You are social. You like to travel and freshness. You automatically get guidance on how to cope with any difficult situation.
+    You sometimes feel depressed. Your attitude is vast and you keep abstinence in life. You tend to increase the tendency to cooperate with others.</string>
+
+    <string name="result5d">4. You are happy to help others. Keep this in mind, that somebody do not take any advantage of this nature.</string>
+
+    <string name="result5e">5.  You are interested in Religion and philosophy.</string>
+
+    <!--    <string name="result5f">6.</string>
+
+    <string name="result5g">7. You can be a very good speaker which people will appreciate and be
+        your fan.</string>
+
+    <string name="result5h">8. Everybody will be your friend because of your generosity and kind behaviour
+        towards them.</string>
+
+    <string name="result5i">9. Music, literature and Art will always be your field on interest and
+        provide stability in your life.</string>
+
+    <string name="result5j">10. At 23 years you will start getting success in your life but after 32
+        years of age success will be at your feet.</string>
+
+    <string name="result5k">11. Participating in politics and law can provide you big name along with
+        fame and success.</string>
+
+    <string name="result5l">12. In profession Engineering, salesman, counsellor, emissaries, banking,
+        lawyer and teacher will be an Ideal choice.</string>   -->
+
+    <!--   SIX   RESULT   SIX  RESULT   SIX  RESULT   SIX  RESULT   SIX   RESULT   SIX   RESULT  SIX   RESULT    -->
+
+
+    <string name="dateLord6">Venus</string>
+
+    <string name="element6">Water</string>
+
+    <string name="luckyColor6">Silver</string>
+
+    <string name="luckyGem6">Diamond</string>
+
+    <string name="favourableDirection6">South-East</string>
+
+    <string name="favourableTatse6">Sweet</string>
+
+    <string name="positiveTraits6">They are ambitious and determined, a leader seeking opportunities. There is a great deal of honesty and
+        loyalty in this character. They are a loyal friend and strictly fair in business dealings.</string>
+
+    <string name="negativeTraits6">They are apt to dominate situations and people; the home, the spouse, the family and the business.
+        Emotions aren't strong in this nature.</string>
+
+    <string name="friendlyNumbers6">3</string>
+
+    <string name="neutralNumbers6">2, 7, 1, 4, 5, 8</string>
+
+    <string name="enemyNumbers6">9</string>
+
+    <string name="luckyMetal6">Silver</string>
+
+    <string name="bestday6">Friday, Tuesday</string>
+
+    <string name="bestmonth6">June, September</string>
+
+    <string name="besttime6">Between 15 June and 24 July every year</string>
+
+
+    <string name="result6a">1.  You have the effect of Venus on you.</string>
+
+    <string name="result6b">2.  God Venus is a symbol of love, sympathy and respect.</string>
+
+    <string name="result6c">3. You are the artist and art lover since birth. There is an attachment to the beauty of life.</string>
+
+    <string name="result6d">4. Your lucky number 6 is a symbol of beauty, health, power, love, affection and charm. Your life is comfortable, luxurious and happy, it is your tendency.</string>
+
+    <string name="result6e">5.  You have a tendency to spend more than saving money. You are attracted to high quality garments, jewelry, scented accessories, diamond gems and various scented goods. </string>
+
+    <string name="result6f">6.  You want to practice and work in your work. You want freedom in your thoughts and work. You do not like anyone intervention.</string>
+
+    <string name="result6g">7.  You keep your children lovingly and responsibly.
+    You are a counselor and people have to ask you for advice.</string>
+
+    <!--
+
+    <string name="result6h">8. Love life will be stable in life however you are impatient by nature but
+        family life will be smooth and right as rain.</string>
+
+    <string name="result6i">9. You like peace and quietness in your life and you always want good people or
+        good objects in your life.</string>
+
+    <string name="result6j">10. You will achieve success in your life wherever you go especially as a Poet,
+        Novelist, Writer and spirituality.</string>
+
+    <string name="result6k">11. Work related to public speaking and public relation can give you good
+        results.</string>      -->
+
+    <!--   SEVEN  RESULT   SEVEN  RESULT    SEVEN  RESULT      SEVEN  RESULT   SEVEN  RESULT   SEVEN -->
+
+    <string name="dateLord7">Ketu</string>
+
+    <string name="element7">Water</string>
+
+    <string name="luckyColor7">White</string>
+
+    <string name="luckyGem7">Cats-eye</string>
+
+    <string name="favourableDirection7">North-West</string>
+
+    <string name="favourableTatse7">Bitter/ Hot/ Spicy</string>
+
+    <string name="positiveTraits7">They love to study and analyze, to gain knowledge and wisdom. They have analytical approach.</string>
+
+    <string name="negativeTraits7">They are timid around people that they dont know. They tend to be very selective with friends and they
+        dont easily adapt to new environments or to new people very quickly.</string>
+
+    <string name="friendlyNumbers7">8, 6, 5</string>
+
+    <string name="neutralNumbers7">3</string>
+
+    <string name="enemyNumbers7">1, 2, 9</string>
+
+    <string name="luckyMetal7">Iron</string>
+
+    <string name="bestday7">Saturday, Thursday</string>
+
+    <string name="bestmonth7">July, January, March, May</string>
+
+    <string name="besttime7">Between 21 July and 22 August every year</string>
+
+
+    <string name="result7a">1. You have the effect of planet Neptune.</string>
+
+    <string name="result7b">2.   Your personality is basically free.</string>
+
+    <string name="result7c">3.   You are unwell. You like to travel abroad and you go out for some reason.</string>
+
+    <string name="result7d">4. Have strange concepts about religion and custom, and you walk according to your rules.</string>
+
+    <string name="result7e">5. Neptune is a planet of spiritual principles. Therefore, the ego of high rank comes into your personal form.</string>
+
+    <string name="result7f">6.  Your behavior is often confusing. You achieve your goal from your logical thinking. Sometimes you behave objectionable and bad.</string>
+
+    <string name="result7g">7. You are aware of the art of getting money.</string>
+
+    <string name="result7h">8. Sometimes you are frustrated and uncomfortable You only choose the good things.</string>
+
+    <string name="result7i">9. Despite being emotional, there is a tendency to hide the original feelings in you.</string>
+
+    <string name="result7j">10.  You can not keep up with common thinking people.</string>
+
+    <!--    <string name="result7k">11. Film entertainment, public relation, airline industry and hotel management
+            can be an ideal field of profession for you. </string>    -->
+
+    <!--   EIGHT  RESULT   EIGHT  RESULT   EIGHT  RESULT   EIGHT    RESULT   EIGHT   RESULT   EIGHT   RESULT    -->
+
+    <string name="dateLord8">Saturn</string>
+
+    <string name="element8">Air</string>
+
+    <string name="luckyColor8">Black</string>
+
+    <string name="luckyGem8">Blue Sapphire</string>
+
+    <string name="favourableDirection8">West</string>
+
+    <string name="favourableTatse8">Bitter</string>
+
+    <string name="positiveTraits8">Their mind is analytical and sound judgment. They have good executive abilities, and with these,
+        confidence, energy and ambition.</string>
+
+    <string name="negativeTraits8">They are dominating and having an exacting attitude. They have a tendency to be rigid and stubborn.</string>
+
+    <string name="friendlyNumbers8">1, 2, 3</string>
+
+    <string name="neutralNumbers8">6, 8</string>
+
+    <string name="enemyNumbers8">4, 5</string>
+
+    <string name="luckyMetal8">Copper</string>
+
+    <string name="bestday8">Monday, Wednesday</string>
+
+    <string name="bestmonth8">August, February, April</string>
+
+    <string name="besttime8">Between 14 January and 20 February every year</string>
+
+    <string name="result8a">1.  You are influenced by Saturn planet.</string>
+
+    <string name="result8b">2. You are a strict disciplinary, determined, firm and dutiful. Peace and privacy you like. There is great interest in classical music and more like serious music. You like natural beauty and flowers.</string>
+
+    <string name="result8c">3.  Saturn is a planet of equilibrium and both sides are thought of. It is your specialty to take a very careful decision about the future and think very carefully about the worldly things.</string>
+
+    <string name="result8d">4.  You are more strategic, smart and more serious than others. You are ambitious and long-term. They are ready to work hard to get what they want. You are a person with suspicious attitude and you are doing your work.</string>
+
+    <string name="result8e">5.  You are functional and efficient, and you are right. You are sometimes misunderstood.</string>
+
+    <string name="result8f">6. You show respect and affection for the poor and the weak.</string>
+
+    <string name="result8g">7.  Being a good administrator, you are able to work with others. You respect the right and if you have to pay the price, then you pay the price too.</string>
+
+    <string name="result8h">8. There are constant problems in your life and you solve it in a good way. Because of this you get a lot of life experience.</string>
+
+    <!--    <string name="result8i">9. Sometimes you may have to take harsh decisions where society may criticise you
+        for your decision.</string>
+
+    <string name="result8j">10. Sports, Politics, Builder, Contractor can be good filed of profession because
+        you always be stable and never loose control on your mind.</string>
+
+    <string name="result8k">11. Work related to public speaking and public relation can give you good
+        results.</string>    -->
+
+    <!--   NINE  RESULT  NINE  RESULT  NINE RESULT   NINE RESULT  NINE RESULT   NINE RESULT   NINE RESULT -->
+
+    <string name="dateLord9">Mars</string>
+
+    <string name="element9">Fire</string>
+
+    <string name="luckyColor9">Red</string>
+
+    <string name="luckyGem9">Coral</string>
+
+    <string name="favourableDirection9">South</string>
+
+    <string name="favourableTatse9">Bitter</string>
+
+    <string name="positiveTraits9">They are able to view life in very broad and intuitive terms. They often express high ideals and an
+        inspirational approach to life.</string>
+
+    <string name="negativeTraits9">They are too sensitive. They are disappointed in the lack of perfection in themselves and others.</string>
+
+    <string name="friendlyNumbers9">2, 3, 9</string>
+
+    <string name="neutralNumbers9">5</string>
+
+    <string name="enemyNumbers9">No enemy</string>
+
+    <string name="luckyMetal9">Gold</string>
+
+    <string name="bestday9">Tuesday, Friday</string>
+
+    <string name="bestmonth9">September, March, June</string>
+
+    <string name="besttime9">Between 15 January and 20 May every year</string>
+
+
+    <string name="result9a">1.  Due to the ownership of Mars, aggression, resistance, courage, agility and readiness are seen in you.</string>
+
+    <string name="result9b">2. You are a brawler.You are of aggressive tendencies and you do not stop until you achieve your goal. You can answer the inconvenient situation, you have so much potential.</string>
+
+    <string name="result9c">3. What you lose is not known to you. If there are people of Mars in the troop, they will continue to win, otherwise they would like to die.</string>
+
+    <string name="result9d">4. There is no logic or delusion, but your intention is always good. Your temper is angry, but you are brave. You do not care. Sometimes your way of speaking is wrong. You have the passion of sports and difficult physical exercises.</string>
+
+    <string name="result9e">5. Your sexual sensation is intense and you will be attracted to opposite sex.</string>
+
+    <string name="result9f">6. You respect your friend and you can fight with his side when the time comes. Kindness and respect for the weaker ones. Children and animals are very cute.</string>
+
+    <string name="result9g">7. You have control over yourself and you are forgiven. You have ethical patience. Your mental thinking is good and you stay firm in any case.</string>
+
+    <!--   <string name="result9h">8. You will not accept anybody’s authority and will likely not allow anybody to speak
+        over you because of your good communications skills.</string>
+
+    <string name="result9i">9. Take tough decisions in difficult times is a piece of cake for you because fear
+        is something that you don’t know.</string>
+
+    <string name="result9j">Agriculture, Builder, Spirituality and Contractor is good field however whatever you
+        choose success and victory is certain.</string>   -->
+
+</resources>
+
+<!--
+
+-->

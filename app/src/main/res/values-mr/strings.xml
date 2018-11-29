@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NumerologyMagic</string>
+
+    <string name="contact_1">संपर्क</string>
+    <string name="contact_2">सलाहकार: डॉ। संध्या जाधव</string>
+    <string name="contact_3">मुख्य कार्यालय:</string>
+    <string name="contact_4">709, प्रभात केंद्र एनेक्सी,</string>
+
+    <string name="contact_5">सेक्टर - 1 ए, सीबीडी बेलापुर,</string>
+    <string name="contact_6">नवी मुंबई - 400 614</string>
+    <string name="contact_7">शाखा कार्यालय:</string>
+    <string name="contact_8">"आशीषवाड़", 268/3/6, अमृत कॉलोनी,</string>
+
+    <string name="contact_9">दौलत नगर, करंज टेरे, सतारा</string>
+    <string name="contact_10">415 001</string>
+    <string name="contact_11">विज़िटिंग प्लेस:</string>
+    <string name="contact_12">री खंडेश्वर महादेव मंदिर,</string>
+
+    <string name="contact_13">खंडेश्वर झील, खंडेश्वर झील रोड, </string>
+    <string name="contact_14">पार्क साइट सोसाइटी, सेक्टर - 6, खंडा कॉलोनी,</string>
+    <string name="contact_15">पनवेल, नवी मुंबई, महाराष्ट्र 410206</string>
+    <string name="contact_16">विज़िटिंग प्लेस:</string>
+
+    <string name="contact_17">दुकान संख्या बीएस -02, 108 ग्रीन्स, बीड</string>
+    <string name="contact_18">बाईपास, ओप। कमलनायन बजाज</string>
+    <string name="contact_19">अस्पताल, औरंगाबाद 431005</string>
+    <string name="contact_20">मोबाइल: 8655990799</string>
+
+    <string name="contact_21">ई-मेल: drsandhya@vastoshapati.com</string>
+    <string name="contact_22">vastoshapati@gmail.com</string>
+
+    <string name="babyName_result_Mulank">हे नाव आपल्या मुलांकाशी जुळत आहे. हे नाव आपल्यासाठी चांगले आहे.</string>
+    <string name="babyName_result_Bad">हे नाव आपल्या भाग्यांकाची व मुलांकाशी जुळत नाही. हे नाव आपल्याकरिता योग्य नाही.</string>
+    <string name="babyName_result_Lucky">हे नाव आपल्या भाग्यवान क्रमांकाशी जुळते. हे नाव आपल्यासाठी खूप चांगले आहे.</string>
+
+    <string name="address_result_Mulank">हा पत्ता आपल्या मुलांकाशी जुळत आहे. हा पत्ता आपल्यासाठी चांगला आहे.</string>
+    <string name="address_result_Bad">हा पत्ता आपल्या भाग्यांकाशी व मुलांकाशी जुळत नाही. हा पत्ता आपल्याकरिता योग्य नाही.</string>
+    <string name="address_result_Lucky">हा पत्ता आपल्या भाग्यांक क्रमांकाशी जुळतो. हा पत्ता आपल्यासाठी खूप चांगले आहे.</string>
+
+    <string name="companyName_result_Mulank">हे कंपनीचे नाव आपल्या मुलांकाशी जुळत आहे. हे कंपनीचे नाव आपल्यासाठी चांगले आहे.</string>
+    <string name="companyName_result_Bad"> हे कंपनीचे नाव आपल्या भाग्यांकाची व मुलांकाशी  जुळत नाही. हे कंपनीचे नाव आपल्याकरिता योग्य नाही.</string>
+    <string name="companyName_result_Lucky">हे कंपनीचे नाव आपल्या भाग्यवान क्रमांकाशी जुळते. हे कंपनीचे नाव आपल्यासाठी खूप चांगले आहे.</string>
+
+    <string name="mobileNumber_result_Mulank"> हा मोबाइल नंबर आपल्या मुलांकाशी जुळत आहे. हा मोबाइल नंबर आपल्यासाठी चांगला आहे.</string>
+    <string name="mobileNumber_result_Bad">हा मोबाइल नंबर आपल्या भाग्यांकाची व मुलांकाशी  जुळत नाही. हा मोबाइल नंबर आपल्याकरिता योग्य नाही.</string>
+    <string name="mobileNumber_result_Lucky">हा मोबाइल नंबर आपल्या भाग्यांक क्रमांकाशी जुळतो. हा मोबाइल नंबर आपल्यासाठी खूप चांगले आहे.</string>
+
+    <string name="vehicleNumber_result_Mulank"> हा वाहन क्रमांक आपल्या मुलांकाशी जुळत आहे. हा वाहन क्रमांक आपल्यासाठी चांगला आहे.</string>
+    <string name="vehicleNumber_result_Bad"> हा वाहन क्रमांक आपल्या भाग्यांकाशी व मुलांकाशी  जुळत नाही. हा वाहन क्रमांक आपल्याकरिता योग्य नाही.</string>
+    <string name="vehicleNumber_result_Lucky"> हा वाहन क्रमांक आपल्या भाग्यांक क्रमांकाशी जुळते. हा वाहन क्रमांक आपल्यासाठी खूप चांगला आहे.</string>
+
+    <string name="yourName_result_Mulank">हे नाव आपल्या मुलांकाशी जुळत आहे. हे  नाव आपल्यासाठी चांगले आहे.</string>
+    <string name="yourName_result_Bad">  हे नाव आपल्या भाग्यांकाची व मुलांकाशी जुळत नाही. हे  नाव आपल्याकरिता योग्य नाही.</string>
+    <string name="yourName_result_Lucky">हे  नाव आपल्या भाग्यवान क्रमांकाशी जुळते. हे  नाव आपल्यासाठी खूप चांगले आहे</string>
+
+    <string name="matchMaking_result_Good"> यांचे गुण मिलन होत आहे.यांचा विवाह करण्यास हरकत नाही.</string>
+    <string name="matchMaking_result_Bad">यांचे गुण मिलन होत नाही. विवाह करु नये</string>
+
+    <string name="text_result">परिणाम</string>
+
+    <string name="babyname_language">मुलाचे नाव</string>
+
+    <string name="companyname_language">कंपनीचे नाव</string>
+
+    <string name="address_language">पत्ता</string>
+
+    <string name="mobilenumber_language">मोबाइल नंबर</string>
+
+    <string name="matchmaking_language">जुळणी करणे</string>
+
+    <string name="vehiclenumber_language">वाहन क्रमांक</string>
+
+    <string name="yourname_language">तुझे नाव</string>
+
+    <string name="ourwebsite_language">आमची वेबसाइट</string>
+
+    <string name="contactUs_language">आमच्याशी संपर्क साधा</string>
+
+    <string name="turnUp_language">टर्नअप आयडिया प्रा. लि. 2018</string>
+
+
+    <string name="karmicNumber">तुमचा भाग्यवान क्रमांक</string>
+
+    <string name="vehiclenumber1">वाहन नंबर टाइप करे</string>
+
+    <string name="yourname1">नाम टाइप करें</string>
+
+    <string name="address1">पता टाइप करें</string>
+
+    <string name="babyname1">बेबी नाम टाइप करें</string>
+
+    <string name="datelord">देव :-</string>
+
+    <string name="element">घटक :-</string>
+
+    <string name="luckycolor">भाग्यवान रंग :-</string>
+
+    <string name="luckygem">भाग्यवान रत्न :-</string>
+
+    <string name="favourabledirection">अनुकूल दिशा :-</string>
+
+    <string name="favourabletaste">अनुकूल स्वाद :-</string>
+
+    <string name="positivetraits">सकारात्मक लक्षणे: :-</string>
+
+    <string name="negativetraits">नकारात्मक लक्षणे: :-</string>
+
+    <string name="friendlynumbers">मित्रांक संख्याः :-</string>
+
+    <string name="neutralnumbers">तटस्थ संख्याः :-</string>
+
+    <string name="enemynumbers">शत्रू क्रमांक :-</string>
+
+    <string name="luckymetal">भाग्यवान धातू :-</string>
+
+    <string name="bestday">सर्वोत्तम दिवस :-</string>
+
+    <string name="bestmonth">सर्वोत्तम महिना :-</string>
+
+    <string name="besttime">सर्वोत्तम वेळ :-</string>
+
+    <string name="bestday1">रविवार, गुरुवार</string>
+    <string name="bestday2">सोमवार, बुधवार</string>
+    <string name="bestday3">मंगळवार, शुक्रवार</string>
+    <string name="bestday4">बुधवार, सोमवार</string>
+    <string name="bestday5">गुरुवार, शनिवार</string>
+    <string name="bestday6">शुक्रवार, मंगलवार</string>
+    <string name="bestday7">शनिवार, गुरुवार</string>
+    <string name="bestday8">सोमवार, बुधवार</string>
+    <string name="bestday9">मंगलवार, शुक्रवार</string>
+
+    <string name="mulank">मूलांक संख्या :-</string>
+
+    <string name="bestmonth1">जानेवारी, मार्च, मे, जुलै, ऑक्टोबर</string>
+    <string name="bestmonth2">फेब्रुवारी, एप्रिल, ऑगस्ट, नोव्हेंबर</string>
+    <string name="bestmonth3">	मार्च, मे, जुलै, जून, सप्टेंबर, डिसेंबर </string>
+    <string name="bestmonth4">फेब्रुवारी, एप्रिल, ऑगस्ट </string>
+    <string name="bestmonth5">जानेवारी, मार्च, मे, जुलै</string>
+    <string name="bestmonth6">जुलै, सप्टेंबर</string>
+    <string name="bestmonth7">	जानेवारी, मार्च, मे, जुलै</string>
+    <string name="bestmonth8">फेब्रुवारी, एप्रिल, ऑगस्ट</string>
+    <string name="bestmonth9">मार्च, जून, सप्टेंबर</string>
+
+    <string name="besttime1">हर साल 20 जून और 21 अगस्त के बीच</string>
+    <string name="besttime2">हर साल 20 जुलाई और 20 अगस्त के बीच</string>
+    <string name="besttime3">हर साल 18 सितंबर और 20 जनवरी के बीच</string>
+    <string name="besttime4">हर साल 13 सितंबर और 13 जनवरी के बीच</string>
+    <string name="besttime5">हर साल 10 जुलाई और 1 9 सितंबर के बीच</string>
+    <string name="besttime6">हर साल 15 जून और 24 जुलाई के बीच</string>
+    <string name="besttime7">हर साल 21 जुलाई और 22 अगस्त के बीच</string>
+    <string name="besttime8">हर साल 14 जनवरी और 20 फरवरी के बीच</string>
+    <string name="besttime9">हर साल 15 जनवरी और 20 मई के बीच</string>
+
+    <string name="companyname1">कंपनी का नाम टाइप करें</string>
+    <string name="luckyNumber">आपला भाग्यशाली नंबर आहे </string>
+    <string name="matchmaking1">महिला का जन्मतारीख</string>
+    <string name="matchmaking2">पुरुष का जन्मतारीख</string>
+    <string name="mobilenumber1">मोबाइल नंबर टाइप करें</string>
+
+    <string name="dateLord1">सूर्य</string>
+
+    <string name="element1">आग</string>
+
+    <string name="luckyColor1">सोनेरी</string>
+
+    <string name="luckyGem1">मानिक रत्न</string>
+
+    <string name="favourableDirection1">पूर्व</string>
+
+    <string name="favourableTatse1">गर्म / तीखा</string>
+
+    <string name="positiveTraits1">आपण महत्वाकांक्षी आणि  मजबूत आहेत, आपण नेता बनण्याची संधी शोधत असतात. या वर्णांतील लोक प्रामाणिक आणि निष्ठावान असतात. आपण एक निष्ठावान मित्र आहात आणि व्यवसायिक व्यवहारात तटस्थ असतात ।</string>
+
+    <string name="negativeTraits1">आपण परिस्थिती आणि लोकांवर वर्चस्व गाजविता. आपण घरात, पती-पत्नी, कुटुंबातील आणि व्यवसायात या सर्वांवर वर्चस्वगाजविता. आपल्या भावना मजबूत नसतात ।</string>
+
+    <string name="friendlyNumbers1">2, 7, 5</string>
+
+    <string name="neutralNumbers1">3, 9, 4</string>
+
+    <string name="enemyNumbers1">6,8</string>
+
+    <string name="luckyMetal1">सोना</string>
+
+    <string name="dateLord2"> चंद्र </string>
+
+    <string name="element2">पानी</string>
+
+    <string name="luckyColor2">पांढरा </string>
+
+    <string name="luckyGem2">मोती रत्न</string>
+
+    <string name="favourableDirection2">उत्तर पश्चिम</string>
+
+    <string name="favourableTatse2">नमक, क्षारीय</string>
+
+    <string name="positiveTraits2">आपण सहानुभूतीशील, अत्यंत चिंताग्रस्त आणि समर्पित आहात. आपला स्वभाव संवेदनशील, सौम्य आणि राजनैतिक आहे. आपण भावनिक आहात. आपण शांतपणे आपले मत दुसऱ्याला पटवून देतात ।</string>
+
+    <string name="negativeTraits2">आपण खूप संवेदनशील आणि किंचित अहंकारी आहात, ज्यामुळे आपल्याला सहज दुःख होऊ शकते. आपण कधी कधी घाबरतात किंवा भयभीत होता ।</string>
+
+    <string name="friendlyNumbers2">5, 6, 3, 8</string>
+
+    <string name="neutralNumbers2">1, 4</string>
+
+    <string name="enemyNumbers2">7, 9</string>
+
+    <string name="luckyMetal2">चांदी</string>
+
+
+
+
+
+
+
+
+    <string name="dateLord3">गुरु</string>
+
+    <string name="element3">ईथर</string>
+
+    <string name="luckyColor3">पिवळा</string>
+
+    <string name="luckyGem3">पुखराज</string>
+
+    <string name="favourableDirection3">ईशान कोण</string>
+
+    <string name="favourableTatse3">मिठा</string>
+
+    <string name="positiveTraits3">तुम्ही मैत्रीपूर्ण आणि खूप सामाजिक आहात. आपण मानसिक आणि भावनात्मक संतुलित आहात. आपण अंतर्ज्ञानी आणि सर्जनशील आहात ।</string>
+
+    <string name="negativeTraits3">आपण खूप आशावादी आहात आणि बरेच बोलता ।</string>
+
+    <string name="friendlyNumbers3">2, 7, 9, 8</string>
+
+    <string name="neutralNumbers3">1, 4</string>
+
+    <string name="enemyNumbers3">5,6</string>
+
+    <string name="luckyMetal3">सोना</string>
+
+
+
+
+    <string name="dateLord4">राहु</string>
+
+    <string name="element4">आग</string>
+
+    <string name="luckyColor4">सोनेरी</string>
+
+    <string name="luckyGem4">गोमेद</string>
+
+    <string name="favourableDirection4">पूर्व</string>
+
+    <string name="favourableTatse4">गर्म / तीखा</string>
+
+    <string name="positiveTraits4">आपण एक चांगला आयोजक, प्रशासक आणि व्यवस्थापक आहात. आपण जबाबदार, भरोसेमंद, व्यावहारिक आणि विश्लेषक आहात ।</string>
+
+    <string name="negativeTraits4">आपण कठोर, जिद्दी आणि थोडासा संकुचित आहात. भावना लपवण्याची प्रवृत्ती किंवा वास्तविक भावनांबद्दल खरोखरच जाणीव नसते ।</string>
+
+    <string name="friendlyNumbers4">2, 7, 5</string>
+
+    <string name="neutralNumbers4">1, 9</string>
+
+    <string name="enemyNumbers4">1, 6, 8</string>
+
+    <string name="luckyMetal4">सोना</string>
+
+
+
+
+    <string name="dateLord5">बुध ग्रह</string>
+
+    <string name="element5">पृथ्वी</string>
+
+    <string name="luckyColor5">हिरवा</string>
+
+    <string name="luckyGem5">पाचू</string>
+
+    <string name="favourableDirection5">उत्तर</string>
+
+    <string name="favourableTatse5">गर्म / तीखा</string>
+
+    <string name="positiveTraits5">आपण अनुकूल आणि बहुमुखी आहेत ।</string>
+
+    <string name="negativeTraits5">आपण अस्वस्थ आणि अधीर आहात आपण नियमित काम आवडत नाही.आपण आपले पहिले काम पूर्ण झाल्याशिवाय दुसऱ्या कामात लक्ष घालत नाही ।</string>
+
+    <string name="friendlyNumbers5">1, 4, 3</string>
+
+    <string name="neutralNumbers5">2, 7, 6</string>
+
+    <string name="enemyNumbers5">9, 8</string>
+
+    <string name="luckyMetal5">सोना</string>
+
+
+
+
+    <string name="dateLord6">शुक्र</string>
+
+    <string name="element6">पानी</string>
+
+    <string name="luckyColor6">चंदेरी</string>
+
+    <string name="luckyGem6">हीरा</string>
+
+    <string name="favourableDirection6">दक्षिण-पूर्व</string>
+
+    <string name="favourableTatse6">मिठाई</string>
+
+    <string name="positiveTraits6">आपण महत्वाकांक्षी आणि  मजबूत आहेत, आपण नेता बनण्याची संधी शोधत असतात. या वर्णांतील लोक प्रामाणिक आणि निष्ठावान असतात. आपण एक निष्ठावान मित्र आहात आणि व्यवसायिक व्यवहारात तटस्थ असतात ।</string>
+
+    <string name="negativeTraits6">आपण परिस्थिती आणि लोकांवर वर्चस्व गाजवितो. आपण घरात, पती, कुटुंबातील आणि व्यवसायात वर्चस्व गाजवित आहात. या निसर्गाच्या लोकांमध्ये भावना मजबूत नाहीत ।</string>
+
+    <string name="friendlyNumbers6">3</string>
+
+    <string name="neutralNumbers6">2, 7, 1, 4, 5, 8</string>
+
+    <string name="enemyNumbers6">9</string>
+
+    <string name="luckyMetal6">चांदी</string>
+
+
+
+
+    <string name="dateLord7">केतु</string>
+
+    <string name="element7">पानी</string>
+
+    <string name="luckyColor7">पांढरा </string>
+
+    <string name="luckyGem7">लसण्या</string>
+
+    <string name="favourableDirection7">उत्तर पश्चिम</string>
+
+    <string name="favourableTatse7">कड़वा / गरम / मसालेदार</string>
+
+    <string name="positiveTraits7">त्यांना ज्ञान आणि अनुभवाचा अभ्यास आणि विश्लेषण करणे आवडते. त्यांच्याकडे विश्लेषणात्मक दृष्टीकोन आहे ।</string>
+
+    <string name="negativeTraits7">अज्ञात लोकांमध्ये आपण धैर्य दाखवू शकत नाही. आपण मित्रांबरोबर खूपच निवडक आहात आणि नवीन वातावरण किंवा नवीन लोकांमध्ये आपणास सुलभतेने समाधान मिळत नाही ।</string>
+
+    <string name="friendlyNumbers7">8, 6, 5</string>
+
+    <string name="neutralNumbers7">3</string>
+
+    <string name="enemyNumbers7">1, 2, 9</string>
+
+    <string name="luckyMetal7">लोहा</string>
+
+
+
+
+
+    <string name="dateLord8">शनि ग्रह</string>
+
+    <string name="element8">वायु</string>
+
+    <string name="luckyColor8">काळा </string>
+
+    <string name="luckyGem8">नीलम</string>
+
+    <string name="favourableDirection8">पश्चिम</string>
+
+    <string name="favourableTatse8">कड़वा</string>
+
+    <string name="positiveTraits8">तुमचे मेंदू विश्लेषणात्मक आणि निर्णायक आहे. आपल्याकडे चांगली कार्य क्षमता आहेत आणि त्यांच्याबरोबर आत्मविश्वास, ऊर्जा आणि महत्वाकांक्षा आहे ।</string>
+
+    <string name="negativeTraits8">आपण वर्चस्व आणि अचूक दृष्टीकोन ठेवता. आपल्यात कठोर आणि जिद्दी प्रवृत्ती आहे ।</string>
+
+    <string name="friendlyNumbers8">1, 2, 3</string>
+
+    <string name="neutralNumbers8">6, 8</string>
+
+    <string name="enemyNumbers8">4, 5</string>
+
+    <string name="luckyMetal8">तांबा</string>
+
+
+
+
+    <string name="dateLord9">मंगल ग्रह</string>
+
+    <string name="element9">आग</string>
+
+    <string name="luckyColor9">लाल</string>
+
+    <string name="luckyGem9">पोवळे</string>
+
+    <string name="favourableDirection9">दक्षिण</string>
+
+    <string name="favourableTatse9">कड़वा</string>
+
+    <string name="positiveTraits9">आपण जीवनाला व्यापक आणि अंतर्ज्ञानी मार्गाने पहा. आपण नेहमी उच्च आदर्श आणि जीवनासाठी एक प्रेरणादायक दृष्टीकोन व्यक्त करता ।</string>
+
+    <string name="negativeTraits9">आपण खूप संवेदनशील आहात. आपण स्वतः तील व इतरांमधील परिपूर्णतेची कमतरता पाहून निराश आहात ।</string>
+
+    <string name="friendlyNumbers9">2, 3, 9</string>
+
+    <string name="neutralNumbers9">5</string>
+
+    <string name="enemyNumbers9">कोई दुश्मन नहीं</string>
+
+    <string name="luckyMetal9">सोना</string>
+
+
+
+
+
+    <!--  //////////////////////////////       ONLY HERE     ONLY HERE     ONLY HERE   ////////////////////////////////////////  -->
+
+
+
+
+
+
+
+    <string name="result1a">1. तुमच्यावर रवी ग्रहाचा अंमल आहे. त्यामुळे रवीची स्वभाववैशिष्टये तुमच्यात आहेत.</string>
+
+    <string name="result1b">2. कल्पकता, चपळता, उत्साह, कला व हुशारी हे तुमचे खास गुण आहेत.  </string>
+
+    <string name="result1c">3. तुमचे व्यक्तिमत्व उत्स्फूर्त असून, निसर्गाशी सहजरीतीने एकरुप होता. जीवनातील आनंद उपभोगण्याची आवड तुम्हाला आहे.</string>
+
+    <string name="result1d">4. एखाद्या विषयाचे विवरण करण्यासाठी जरी दीर्घ प्रयत्नांची जोड मिळालेली असली,तरी तुमच्या बदलत्या विचारांमुळे एकाच गोष्टीवर फार काळ टिकून राहण्यास तुम्हाला आवडत नाही.</string>
+
+    <string name="result1e">5. स्वंयभू अंतःस्फूर्तीमुळे तुम्हाला कोणत्याही विषयाचे चटकन आकलन होते व त्या विषयावरील संभाषणात भाग घेऊ शकता. </string>
+
+    <string name="result1f">6. तुमच्या हुशारीमुळे तुमचा इतरांवर प्रभाव पडतो. हया गुणामुळे सभा-संमेलने तुम्ही गाजवू शकता.</string>
+
+    <string name="result1g">7.   तुमच्यात जबर इच्छाशक्ती आहे व विचारात व कृतीत पूर्णपणे स्वतंत्रता आहे. नेतृत्व मिळत असेल, तरच तुम्ही एखाद्या गोष्टीत रस घ्याल. </string>
+
+    <string name="result1h">8.  जरी समाजप्रिय असलात, तरी कर्तव्य व सामाजिक रुढी हया बाबतीत तुमच्या कल्पना चमत्कारिक असतात. काही वेळा अतिशय व्यवहारी, तर काही वेळा ध्येयवादी अशा दोन्ही स्वभावाचा अनुभव येतो. </string>
+
+    <string name="result1i">9.  कधी कधी तुम्ही दुराग्रही व स्वार्थीसुध्दा होता. </string>
+
+    <string name="result1j">10. संशोधन करण्याची उपजत शक्ती असूनसुध्दा, चंचल स्वभावामुळे कोणत्याही एका क्षेत्रात स्वतःचे असे निराळे अस्तित्व निर्माण करु शकत नाही. </string>
+
+
+
+    <string name="result2a">1.  तुमच्यावर चंद्र ग्रहाचा अंमल आहे.</string>
+
+    <string name="result2b">2.  तुमच्यात उत्कृष्ट कल्पनाशक्ती असून, तुम्ही ध्येयवादी व स्वप्नाळू स्वभावाच्या आहात.  स्वप्नाळू स्वभावामुळे निर्णय घेण्यास थोडासा उशीर लागतो.    </string>
+
+    <string name="result2c">3.  तुम्ही तत्त्वज्ञानी असून कोणत्याही गोष्टींचे पृथक्करण करण्याची तुम्हाला आवड आहे. </string>
+
+    <string name="result2d">4. उच्च बौध्दिक पातळीमुळे दुस-याच्या सहवासात राहणे तुम्हाला फारसे पसंत नसते.  इतके असूनही तुमच्या सामाजिक दृष्टिकोनामुळे तुम्ही पूर्णपणे लोकांमध्ये सामावलेले आहात असे वाटते.</string>
+
+    <string name="result2e">5.  तुम्ही मायाळू असून लोकप्रिय होता.</string>
+
+    <string name="result2f">6.  समुद्र, फुले, सृष्टिसौदर्यं व आकाशाचा विशालपणा हयांसारख्या नैसर्गिक सौंदर्याचे तुम्हाला आकर्षण असते.</string>
+
+    <string name="result2g">7. आकाशातील ग्रह, तारे पाहण्यात बराच वेळ घालविणे व त्यातच आनंद मानणे ही गोष्ट तुम्हाला अधिक प्रिय आहे.</string>
+
+    <string name="result2h">8.  तुमचा स्वभाव अस्थिर व चंचल असून, जीवनात सतत बदल झालेला आवडतो. प्रवासाची आवड असून लांबचे प्रवास अधिक सुखकारक वाटतात.</string>
+
+    <string name="result2i">9.  हवेत मनोरे रचण्यात तुम्ही मग्न असता.</string>
+
+    <string name="result2j">10. तुमचा स्वभाव भिडस्त आहे. </string>
+
+
+
+    <string name="result3a">1.    3 तारीख गुरु ग्रहाच्या अमलाखाली येते. नैतिकता, शुध्द प्रेम, दया, न्याय, परोपकार व दुस-याला मदत करण्यासाठी हा ग्रह प्रसिध्द आहे.</string>
+
+    <string name="result3b">2.  दुस-याबरोबर सुसंवाद साधणे तुम्हाला सहज शक्य होते. तुम्ही दुस-याच्या चांगल्यासाठी कष्ट करण्यास तयार असता व योग्य ती सहानुभूती दाखविता.  </string>
+          
+    <string name="result3c">3.  चांगल्या अर्थाने तुम्ही धर्म पाळता, परंतु यातही काही वेळा दांभिकपणा व अतिरेक दिसतो. तुम्ही जरी धार्मिक वृत्तीचे असलात तरी तुम्ही त्यात पूर्ण भावनावश होत नाही. कोणतेही प्रश्न अभ्यासपूर्ण व पध्दतशीरपणे सोडविले जातात.</string>
+
+    <string name="result3d">4.   तुम्हाला स्वतःचे काम स्वतःच करायला आवडते व तुमच्या कामात ढवळाढवळ केलेली चालत नाही.</string>
+
+    <string name="result3e">5.   तुम्ही महत्वाकांक्षी आहात. ज्यावेळी तुमच्या कल्पना व विचार कृतीत आणावयाच्या,असतात, त्यावेळी तुम्हाला एकटे राहणे आवडते.</string>
+
+    <string name="result3f">6.  साधारणतः बुध्दिमान, हुशार व सखोल अभ्यास करणा-या व्यक्तीकडे तुमचा मोठा ओढा असतो.</string>
+
+    <string name="result3g">7.  न्यायपूर्ण व दयापूर्ण निर्णय देणारे न्यायाधीश धर्मगुरु, शिक्षक व तत्वज्ञानी असे लोक तुमच्या तारखेत मोडतात.</string>
+
+    <string name="result3h">8.  स्वतःचे निर्णय स्वतःच घेतले जातात. तुम्हाला दिखाऊपणाची आवड असून न्याय, पध्दतशीरपणा व टापटीपपणा या गोष्टींकडे लक्ष पुरविले जाते. तुमच्या भावना उत्स्फूर्त व निरोगी असून तुम्ही त्याला मोकळेपणाने साथ देता.</string>
+
+    <string name="result3i">9. तुमचा उत्साह दांडगा असून जगाला समजून घेण्याचा एक निराळा दृष्टिकोन असतो. तुम्ही उदार, सहिष्णु वृत्तीचे व दुस-याच्या विश्वासास पात्र असता, व्देष किंवा क्षुद्र मत्सर हे दोष तुम्हाला शिवत नाहीत. तुमच्या चांगुलपणाचा फायदा घेतला जावू नये म्हणून तुम्ही अतिशय जागरुक राहणे जरुर आहे. </string>
+
+    <!--    <string name="result3j">10. एक कुशल प्राध्यापक, कानूनविद्, सचिव अथवा राजदूत के पद को आप  सुशोभित करेंगे। यदि आप कठिन-से-कठिन परिश्रम करें तो आपको सरकार में प्रमुख पद लेने से कोई नहीं रोक सकता। </string>    -->
+
+
+
+    <string name="result4a">1. हर्षल ग्रहाचा प्रभाव तुमच्यावर आहे.</string>
+
+    <string name="result4b">2.  उत्साह, जोम व प्रगती ही तुमच्या स्वभावाची वैशिष्टे आहेत.</string>
+
+    <string name="result4c">3.  तुमचे आयुष्य चळवळीचे असून अनेक अनपेक्षित गोष्टींचा अनुभव येतो.</string>
+
+    <string name="result4d">4.  तुमच्या मनाची पातळी खूप वरच्या दर्जाची असते. मानवाच्या कल्याणासाठी बुध्दी व कृतीचा उपयोग केला जातो.</string>
+
+    <string name="result4e">5.  जीवनातील रुढी व बंधने तोडण्याचे सतत प्रयत्न चालतात.</string>
+
+    <string name="result4f">6.   तुमचे व्यक्तिमत्व आकर्षक असते व लुच्चेगिरी व खोटेपणा तुम्हाला आवडत नाही.</string>
+
+    <string name="result4g">7.  स्वतःच्या कल्पनेप्रमाणे व्यवस्थित व पध्दतशीर आहात. आपले विचार दुस-यावर लादण्याची वृत्ती तुमच्यात आहे. तर्कशुध्द विचारसरणी, विश्लेषण करण्याची वृत्ती व सूक्ष्म दृष्टिकोन ही तुमची वैशिष्टये आहेत.</string>
+
+    <string name="result4h">8. सतत विरोध करण्याच्या किंवा वाद घालण्याच्या वृत्तीमुळे गुप्त शत्रू निर्माण होतात व गैरसमज पसरतात.</string>
+
+    <string name="result4i">9. तुमच्या दानशूर स्वभावामुळे तुम्ही समाजाशी व सभोवतालच्या परिस्थितीशी बांधून घेता. तुमच्या कृतीमुळे तुमच्याबद्दल गैरसमज होतात. इतके असूनसुध्दा दुस-यांना आपलेसे करण्याची तुमची इच्छा असते व वक्तृत्वातून किंवा लिखाणातून तुम्ही हया गोष्टी मिळविता.</string>
+
+    <string name="result4j">10.   ४ हा अंक सामाजिक जीवनाला चांगला असतो व तुमच्या पाठीमागे लोक येतच राहतात. परंतु तुमच्यातील असाधारण कृती व विचारातील फारकत स्पष्टपणे दिसतात.</string>
+
+
+
+    <string name="result5a">1. तुम्ही बुध ग्रहाच्या स्वामित्वाखाली असल्याने हुशार, तल्लख, शास्त्राची आवड असलेले,व्यापारी वृत्तीचे व झटपट काम करणारे आहात.  पैसा वह टैलेंट असेल‚ मार्केटिंग‚ बिजनेसवाले‚ बोलण्यात हुशार</string>
+
+    <string name="result5b">2. तुमच्यात इन्टूशन असून व्यवहार-चातुर्य आहे. तुमच्यातील कौशल्य बौध्दिक व कृतीतही आहे. तुम्हाला खेळण्याची हौस आहे.</string>
+
+    <string name="result5c">3. स्वतःचे विचार दुस-याला समजावून सांगण्याची आवड आहे. हातातील कार्यात यश कसे मिळवावे याची पूर्वनियोजित योजना तुम्ही करता.
+    तुम्हाला गुढ विद्येची आवड आहे. तुमचे व्यक्तिमत्व प्रसन्न असून आळशीपणा खपत नाही.
+    तुम्ही समाजप्रिय असता. नावीन्य व प्रवासाची आवड ही वैशिष्टये आहेत. कोणत्याही अवघड परिस्थितीतून बाहेर कसे पडावे याचे मार्गदर्शन आपोआप मिळते.
+    तुमच्यात काही वेळा नैराश्य येते व त्यामुळे जाणवते. तुमचा दृष्टिकोन विशाल असून जीवनाकडे तुम्ही संयमाने पाहता. सहचारी वृत्ती सतत वृध्दिंगत होत असते.</string>
+
+    <string name="result5d">4.  दुस-याला मदत करण्याची हौस आहे. परंतु आपला गैरफायदा कोणी घेणार नाही यावर लक्ष ठेवणे जरुरीचे आहे. </string>
+
+    <string name="result5e">5.   धर्म व तत्वज्ञान या विषयांची गोडी उत्पन्न होते. </string>
+
+    <!--    <string name="result5f">6. आप व्यापार प्रधान मस्तिष्क वाले व्यक्तित्व के धनी होंगे। अधिक सीधा होना तथा दूसरे लोगों पर शीघ्रता से विश्वास कर लेना आपको नुकसान की तरफ ले जाएगा।</string>
+
+        <string name="result5g">7. अपनी सचरित्रता, कर्तव्यपरायणता तथा ईमानदारी की वजह से आप समाज में महत्त्वपूर्ण स्थान बना लेंगे। आप जरूरत से ज्यादा व्यय करते रहते हैं जिसके परिणामस्वरूप शीघ्रता से तंगी आ जाती है।</string>
+
+        <string name="result5h">8.  जीवन में सफलताओं का दौर 23वें वर्ष से शुरू होगा, किन्तु 32 वें वर्ष से आप अधिक सफलता प्राप्त करना आरम्भ कर देंगे। आपकी सबसे बड़ी परे यह है कि आप उतावलापन अथवा जल्दबाजी अधिक दिखाते हैं कि फलस्वरूप स्वयं ही कठिनाइयां सहनी पड़ती हैं।</string>
+
+        <string name="result5i">9. साहित्य, संगीत और कला के क्षेत्र में आपकी गहरी रुचि है कुशल लेखक तथा दार्शनिक के रूप में आपको भारी सफलता होगा , राजनीति तथा कानूनी कार्य अथवा क्षेत्रों में आप काफी सफलता प्राप्त कर सकते हैं ।</string>
+
+        <string name="result5j">10. प्राध्यापक के रूप में भी आप कामयाब रहेंगे। विपरीत लिंग के प्रति आपका | अधिक आकर्षण रहेगा। जीवन में एक से अधिक संबंधों का योग बना है। </string>     -->
+
+
+
+
+    <string name="result6a">1. तुमच्यावर शुक्र ग्रहाचा प्रभाव आहे. </string>
+
+    <string name="result6b">2.  रेम, सहानुभूती आणि आदर यांचे प्रतीक म्हणजे शुक्र देवता. </string>
+
+    <string name="result6c">3.  तुम्ही जन्मतःच कलाकार व कलाप्रिय आहात. जीवनातील सौंदर्याबद्दल ओढ आहे.</string>
+
+    <string name="result6d">4.  तुमचा भाग्यांक ६ हा सौंदर्य, आरोग्य, सामर्थ्य, प्रेम, आपुलकी, आकर्षण यांचा निदर्शक आहे. आपले आयुष्य आरामदायक, ऐश्वर्ययुक्त व आनंदात जावे याकडे तुमचा कल असतो.</string>
+
+    <string name="result6e">5.  पैसे वाचवण्यापेक्षा खर्च करण्याची प्रवृत्ती असते. उच्च प्रतीचे कपडे, दागदागिने,सुगंधी द्रव्ये, जडजवाहीर व विविध सुदंर वस्तूंचे तुम्हाला आकर्षण वाटते.</string>
+
+    <string name="result6f">6.  तुमच्या कामात तुम्ही अभ्यासू व पध्दतशीर असता. स्वतःच्या विचारात व कृतीत स्वतंत्र वृत्ती असून कोणाचेही वर्चस्व खपत नाही.</string>
+
+    <string name="result6g">7.  आपल्या मुलांशी तुम्ही प्रेमाने व जबाबदारीने वागता.
+    तुम्ही सल्लागार असून विषयांचे महत्व समजावून सांगण्यासाठी समाजाला तुमची जरुरी असते. </string>
+    <!--
+        <string name="result6h">8. शान्त वातावरण आपको अधिक अच्छा लगेगा। एक महान दार्शनिक, कवि, उपन्यासकार, धर्मवेत्ता और लेखक के रूप में आप ख्याति अर्जित करेंगे। जीवन में आप जहां भी चाहेंगे, जिधर भी चाहेंगे, कामयाबियां हासिल करते जाएंगे।</string>
+
+        <string name="result6i">9. ऐसा कार्य आपको अधिक लाभप्रद रहेगा जिसका सीधा सम्बन्ध जनसम्पर्क से हो। एक निरीक्षक तथा जासूस के रूप में भी आप अपनी पहचान बना सकेंगे।</string>
+
+        <string name="result6j">10. यह मूलांक उस समय और भी अधिक भाग्यवर्द्धक सिद्ध होगा, जब आप जीवन के मूलांक वाले वर्षों में चल रहे होंगे। राजनीति के क्षेत्र में आप अधिक सफल होंगे। केन्द्र सरकार के प्रमुख पदों को आप सुशोभित कर सकते हैं। </string>    -->
+
+
+
+
+    <string name="result7a">1.  तुमच्यावर नेपच्युन ग्रहाचा प्रभाव आहे.</string>
+
+    <string name="result7b">2.  तुमचे व्यक्तिमत्व मूलतःच स्वतंत्र आहे.</string>
+
+    <string name="result7c">3. प्रकृती निसर्गतःच अस्वस्थ असते. तुम्हाला दूरच्या प्रदेशाबद्दल आवड असून, काही ना काही निमित्ताने परदेशाशी संबंध येतो.</string>
+
+    <string name="result7d">4. धर्मविषयक व रुढीबद्दल चमत्कारिक कल्पना असतात व ठराविक चाकोरीतून जाणे आवडत नाही.</string>
+
+    <string name="result7e">5.  नेपच्यून ग्रह आध्यात्मिक तत्वाचा आहे आणि त्यामुळे उच्च कोटीचा अहंकार वैयक्तिकरीत्या जोपासला जातो.</string>
+
+    <string name="result7f">6.   तुमची वागणूक ब-याच वेळा गूढ असते. तर्कशुध्द विचार करुन मोठया प्रमाणात ध्येयपूर्ती होते. काही वेळा दुराग्रही व दुस-यांच्या मतांची उपेक्षा केली जाते. </string>
+
+    <string name="result7g">7. पैसा मिळवण्याची कला तुम्हाला अवगत आहे.</string>
+
+    <string name="result7h">8.  काही वेळा तुम्ही उदास व बेफिकीर वृत्तीचे असता. तुम्ही फक्त चांगल्या गोष्टींची निवड करता.</string>
+
+    <string name="result7i">9.  भावनाप्रधान असूनही आपल्या मूळ भावना लपविण्याकडे कल असतो.</string>
+
+    <string name="result7j">10.  सर्वसाधारण विचारसरणीच्या किंवा सामान्य माणसात मिसळणे रुचत नाही.</string>
+
+
+
+
+    <string name="result8a">1. तुमच्यावर शनी ग्रहाचा प्रभाव असतो.</string>
+
+    <string name="result8b">2. तुम्ही कडक शिस्तीचे भोक्ते, निश्चयी, स्थिर व कर्तव्यतत्पर आहात. शांतता व एकांत हया गोष्टींची आवड असते. शास्त्रीय संगीताची आवड आहे व गंभीर प्रकारचे संगीत जास्त आवडते. निसर्ग सौंदर्य, फुले व रम्य देखाव्याबद्दल ओढ असते.</string>
+
+    <string name="result8c">3.  शनी हा ग्रह समतोल स्वभावाचा असून दोन्ही बाजूचा विचार करणारा आहे.भविष्याबद्दल अत्यंत काळजीपूर्वक निर्णय घेणे, तसेच ऐहिक गोष्टींबददल अतिशय काळजीपूर्वक विचार करणे ही तुमची वैशिष्टये आहेत.</string>
+
+    <string name="result8d">4.  इतर लोकांच्यापेक्षा तुम्ही अधिक धोरणी, हुशार व गंभीर आहात. तुम्ही महत्वाकांक्षी व दिर्घोद्योगी आहात. हवी असलेली गोष्ट मिळवण्यासाठी कष्ट घेण्याची तयारी असते. संशयखोर वृत्ती व चिवटपणा असतो.</string>
+
+    <string name="result8e">5.  तुम्ही कार्यशील व कार्यक्षम असून अधिकार गाजविणारे आहात. तुमच्याबद्दल काही वेळा गैरसमज करुन घेतले जातात.</string>
+
+    <string name="result8f">6. गरीब व दुबळया लोकांबद्दल काही नेहमी आदर व आपुलकी दाखविता.</string>
+
+    <string name="result8g">7. जन्मःतच उत्तम व्यवस्थापक असल्याने इतरांकडून काम घेणे जमते. न्याय, योग्य गोष्टींबद्दल आदर व त्यासाठी मोबदला देण्यास तुम्ही तयार असता.</string>
+
+    <string name="result8h">8. सर्वात महत्वाची गोष्ट सतत अडचणी व विलंब याचा जीवनातून भरपूर अनुभव येतो.</string>
+
+    <!--   <string name="result8i">9. कभी-कभी आपको कठोर निर्णय लेना पड़ सकता है जहां समाज आपकी आलोचना कर सकता है लेकिन वे अंततः कुछ समय बाद आपसे सहमत होंगे जब वे समझ जाएंगे कि यह समाज के लिए अच्छा है।</string>
+
+       <string name="result8j">10. खेल, राजनीति, बिल्डर, ठेकेदार पेशे के रूप में अच्छा है क्योंकि आप हमेशा स्थिर रहते हैं और आप हमेशा अपने दिमाग में नियंत्रण रखते हैं।</string>     -->
+
+
+
+
+
+
+    <string name="result9a">1. तुमच्यावर मंगळ ग्रहाचा अंमल असल्यामुळे आक्रमकता, प्रतिकार, धाडस, तडफ व तत्परता दाखविते.</string>
+
+    <string name="result9b">2.  तुम्ही लढाऊ वृत्तीचे आहात. नेहमी आक्रमक असून ध्येयपूर्ती झाल्याशिवाय थांबत नाही. पूर्णपणे प्रतिकूल परिस्थिती असली तरी तिला तोंड देण्याची किंवा दोन हात करण्याची कुवत तुमच्यात आहे.</string>
+
+    <string name="result9c">3.  पराभव ही गोष्ट तुमच्या गावीही नसते. जर सैन्यामध्ये मंगळ लोकंाची तुकडी असेल, तर ते एक तर विजय मिळवतील अथवा मृत्यू पत्करण्यात आनंद मानतील.</string>
+
+    <string name="result9d">4.  तुमच्या बोलण्यात युक्तिवाद अथवा नाजूकपणा नसतो, परंतु तुमचा उद्देश मात्र नेहमीच चांगला असतो. तुमचा स्वभाव तापट आहे पण धाडसी आहे. तुम्हाला भावनेला कळवळा येत नाही. उध्दटपणा व जोर सुरुवातीपासून शेवटपर्यंत राहतो. खेळाची व शक्तिशाली व्यायामाची तुम्हाला आवड आहे.</string>
+
+    <string name="result9e">5.  तुमची लैंगिक भावना तीव्र असून विरुध्दलिंगी व्यक्तीकडे तुम्ही आकर्षिले जाता.</string>
+
+    <string name="result9f">6. मित्राबद्दल आदर असून वेळप्रसंगी त्याच्या बाजूने लढण्यास तुम्ही तयार असता. दुबळया लोकांबद्दल दया व आदर असतो. मुले व प्राणी फार प्रिय असतात.</string>
+
+    <string name="result9g">7.  तुमचा स्वतःवर ताबा असून तुम्ही क्षमाशील आहात. तुमच्यात नैतिक धैर्य आहे. तुमची मानसिक विचारधारा चांगली असून कोणत्याही परिस्थितीत तुम्ही ठामपणे राहता.</string>
+
+    <!--    <string name="result9h">8. आप किसी के अधिकार को स्वीकार नहीं करेंगे और संभवतः किसी को भी बोलने की अनुमति नहीं देंगे आपका अच्छा संचार और स्पष्टीकरण कौशल समाज के सभी लोगों को बहुत आसान और तार्किक लगेगा ।</string>
+
+        <string name="result9i">9. मुश्किल समय में कठिन निर्णय लेना आपके लिए बहुत आसान मानो बांए हाथ का खेल है क्योंकि डर क्या है आप नहीं जानते और आप हमेशा धार्मिकता में विश्वास करते हैं।</string>
+
+        <string name="result9j">10. कृषि, बिल्डर, आध्यात्मिकता और ठेकेदार अच्छा क्षेत्र है हालांकि आप जो भी करें सफलता आपके कदम चूमेगी आप अपने जीवन में अहंकार से बचने के लिए कड़ी मेहनत करते है अंततः हमेशा दूसरों की सम्मान और सराहना करते हैं।</string>    -->
+
+</resources>

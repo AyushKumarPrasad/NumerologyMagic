@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:orientation="vertical"
+    android:background="@mipmap/landingpage"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactUs">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_contactUs"
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:textColor="@color/textColor"
+                android:id="@+id/back_contactUs"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:src="@drawable/toolbar_arrowback"/>
+            <ImageView
+                android:textColor="@color/textColor"
+                android:layout_width="180dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="25dp"
+                android:src="@mipmap/logoname"/>
+            <ImageView
+                android:id="@+id/contactUs_setting"
+                android:background="@drawable/navigation_setting"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_gravity="end"/>
+            <ImageView
+                android:id="@+id/contactUs_question"
+                android:layout_gravity="end"
+                android:layout_marginRight="5dp"
+                android:src="@mipmap/whatsappicon"
+                android:layout_width="40dp"
+                android:layout_height="40dp"  />
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:id="@+id/contactUs"
+            android:textSize="13pt"
+            android:textStyle="bold"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:layout_gravity="center"
+            android:text="@string/contact_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs1"
+            android:layout_marginTop="20dp"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs2"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs3"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs4"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs5"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs6"
+            android:layout_marginTop="40dp"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs7"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs8"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs9"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs10"
+            android:layout_marginTop="40dp"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs11"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs12"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs13"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs14"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs15"
+            android:layout_marginTop="40dp"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs16"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs17"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs18"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs19"
+            android:layout_marginTop="40dp"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs20"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/contactUs21"
+            android:layout_marginLeft="70dp"
+            android:textSize="8pt"
+            android:typeface="serif"
+            android:textColor="@color/textColor"
+            android:fontFamily="@font/font_edittext"
+            android:text="@string/contact_22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+</ScrollView>

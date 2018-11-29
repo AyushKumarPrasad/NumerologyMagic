@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@mipmap/landingpage"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DobResult">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_Dob_Result"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView android:textColor="@color/textColor"
+            android:id="@+id/back_Dob_Result"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:src="@drawable/toolbar_arrowback"/>
+        <ImageView
+            android:textColor="@color/textColor"
+            android:layout_width="180dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="25dp"
+            android:src="@mipmap/dob"/>
+        <ImageView
+            android:id="@+id/Dob_setting"
+            android:layout_gravity="end"
+            android:background="@drawable/navigation_setting"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp" />
+        <ImageView
+            android:id="@+id/Dob_question"
+            android:layout_gravity="end"
+            android:layout_marginRight="5dp"
+            android:src="@mipmap/whatsappicon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"  />
+    </android.support.v7.widget.Toolbar>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/toolbar_Dob_Result">
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/luckyNumber"
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="center"/>
+            <TextView
+                android:textSize="60pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="T"
+                android:maxLength="1"
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="center"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/mulank"
+                android:fontFamily="@font/font_edittext"/>
+            <TextView
+                android:textSize="15pt"
+                android:layout_marginTop="20dp"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:id="@+id/bhagyaank"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mulank"
+                android:fontFamily="@font/font_edittext"/>
+            <TextView
+                android:textSize="10pt"
+                android:layout_marginTop="20dp"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bestday"
+                android:fontFamily="@font/font_edittext"/>
+            <TextView
+                android:textSize="10pt"
+                android:layout_marginTop="20dp"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_bestday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Best Day Result"
+                android:fontFamily="@font/font_edittext"/>
+            <TextView
+                android:textSize="10pt"
+                android:layout_marginTop="20dp"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bestmonth"
+                android:fontFamily="@font/font_edittext"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_bestmonth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Best Month Result"
+                android:fontFamily="@font/font_edittext"/>
+            <!--           <TextView
+                           android:textSize="10pt"
+                           android:layout_marginTop="20dp"
+                           android:typeface="serif"
+                           android:textStyle="normal|bold|italic"
+                           android:textColor="@color/textColor"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:text="@string/besttime"
+                           android:fontFamily="@font/font_edittext"/>
+                       <TextView
+                           android:textSize="10pt"
+                           android:typeface="serif"
+                           android:textStyle="normal|bold|italic"
+                           android:textColor="@color/textColor"
+                           android:id="@+id/Dob_besttime"
+                           android:layout_width="match_parent"
+                           android:layout_height="wrap_content"
+                           android:layout_marginTop="20dp"
+                           android:text="Best Time Result"
+                           android:fontFamily="@font/font_edittext"/>   -->
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/datelord"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_dateLOrd"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Date Lord Result"
+                android:fontFamily="@font/font_edittext" />
+            <!--         <TextView
+                         android:textSize="10pt"
+                         android:typeface="serif"
+                         android:textStyle="normal|bold|italic"
+                         android:textColor="@color/textColor"
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:layout_marginTop="20dp"
+                         android:text="@string/element"
+                         android:fontFamily="@font/font_edittext" />
+                     <TextView
+                         android:id="@+id/Dob_element"
+                         android:textSize="10pt"
+                         android:typeface="serif"
+                         android:textStyle="normal|bold|italic"
+                         android:textColor="@color/textColor"
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:layout_marginTop="20dp"
+                         android:text="Element Result"
+                         android:fontFamily="@font/font_edittext" />   -->
+
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/luckycolor"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_luckyColor"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Lucky Color Result"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/luckygem"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_luckyGem"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Lucky Gem Result"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/favourabledirection"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_favourableDirection"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Favourable Direction Result"
+                android:fontFamily="@font/font_edittext" />
+            <!--          <TextView
+                          android:textSize="10pt"
+                          android:typeface="serif"
+                          android:textStyle="normal|bold|italic"
+                          android:textColor="@color/textColor"
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:layout_marginTop="20dp"
+                          android:text="@string/favourabletaste"
+                          android:fontFamily="@font/font_edittext" />
+                      <TextView
+                          android:id="@+id/Dob_favourableTaste"
+                          android:textSize="10pt"
+                          android:typeface="serif"
+                          android:textStyle="normal|bold|italic"
+                          android:textColor="@color/textColor"
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:layout_marginTop="20dp"
+                          android:text="Favourable Taste Result"
+                          android:fontFamily="@font/font_edittext" />   -->
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/positivetraits"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_positiveTraits"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Positie Traits Result"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/negativetraits"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_negativeTraits"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Negative Traits Result"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/friendlynumbers"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_friendlyNumbers"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Friendly Numbers Result"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/neutralnumbers"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_neutralNumbers"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Neutral Numbers Result"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/enemynumbers"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_enemyNumbers"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Enemy Numbers Result"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/luckymetal"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:id="@+id/Dob_luckyMetal"
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="normal|bold|italic"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Lucky Metal Result"
+                android:fontFamily="@font/font_edittext" />
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+            <TextView
+                android:textSize="10pt"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:id="@+id/Dob_result10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:fontFamily="@font/font_edittext"
+                android:textAlignment="textStart"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
